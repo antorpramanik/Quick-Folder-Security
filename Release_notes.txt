@@ -1,0 +1,12 @@
+Release Notes:
+-------------------
+
+Quick Folder Security
+V2.0.0.0
+----------
+- Easy Lock/Unlock
+- Right click action on any folders
+- lock folder time max 2sec !
+- Force Mode Encryption
+- Easy Login system
+- Clean and Advance design
